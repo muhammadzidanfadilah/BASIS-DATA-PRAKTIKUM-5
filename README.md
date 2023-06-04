@@ -13,7 +13,7 @@
 - Lakukan join tabel KrsMahasiswa, Mahasiswa, matakuliah dosen
 
 
- LATIHAN 1 
+ # LATIHAN 
 
 - Kita akan melakukan join tabel pada mahasiswa dan juga dosen dengan menggunakan perintah di bawah ini beserta hasil nya 
 
@@ -30,6 +30,8 @@
 - Terakhir kita akan melakukan join tabel pada krs mahasiwa mahasiswa matakuliah dosen dengan menggunakan perintah di bawah ini
 
 ![gambar1](gambar/aku4.png)
+
+# LATIHAN 
 
 - JOIN PADA TABEL MAHASISWA DAN DOSEN
 
@@ -55,7 +57,7 @@
 
 ![gambar1](gambar/aku8.png)
 
-# Kesimpulan 
+# KESIMPULAN 
 
 JOIN penggabungan table melalui kolom atau key tertentu dimana memiliki nilai terkait untuk mendapatkan satu set data dengan informasi lengkap dengan menggunakan tabel mahasiswa dan dosen
 
