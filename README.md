@@ -1,5 +1,27 @@
 # PRAKTIKUM 5
 
+# CONTOH GAMBAR YANG DI MINTA
+
+- Tabel Mahasiswa
+
+![gambar1](gambar/aku13.png)
+
+- Tabel Dosen
+
+![gambar1](gambar/aku14.png)
+
+- Tabel Krsmahasiswa
+
+![gambar1](gambar/aku15.png)
+
+- Tabel Jadwalmengajar
+
+![gambar1](gambar/aku16.png)
+
+- Tabel Matakuliah
+
+![gambar1](gambar/aku17.png)
+
 
 # TUGAS YANG DI MINTA 
 
